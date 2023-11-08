@@ -8,7 +8,7 @@ Here is a sample image of the visual difference:
 
 The difference will be in red.
 
-|                       |                                                                            |                             |
+| Left-hand Side        | Difference between left and right images                                   | Right-hand Side             |
 | --------------------- | -------------------------------------------------------------------------- | --------------------------- |
 | ![](./data_chart.png) | ![A picture showing the difference between a hand drawn chart](./diff.png) | ![](./data_chart_other.png) |
 
